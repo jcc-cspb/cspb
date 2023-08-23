@@ -1,4 +1,4 @@
-## 1. Requisition and Procurement Procedure:
+# Requisition and Procurement Procedure:
 
 ### 1.1. Needs Assessment:
 - **Frequency**: Conduct a needs assessment every semester or annually.
